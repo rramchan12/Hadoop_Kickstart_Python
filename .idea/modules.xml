@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BigData_KickStarters.iml" filepath="$PROJECT_DIR$/.idea/BigData_KickStarters.iml" />
+      <module fileurl="file://C:\python_workspace\Hadoop_Kickstart_Python\.idea\BigData_KickStarters.iml" filepath="C:\python_workspace\Hadoop_Kickstart_Python\.idea\BigData_KickStarters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hadoop_Kickstart_Python.iml" filepath="$PROJECT_DIR$/.idea/Hadoop_Kickstart_Python.iml" />
     </modules>
   </component>
 </project>
